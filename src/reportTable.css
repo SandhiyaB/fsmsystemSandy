@@ -1,0 +1,65 @@
+
+.tableHeadingsbg{
+background-color: orange;
+text-align:center;
+cellpadding-bottom: 20px ;
+
+}
+
+.success{
+text-align:center;
+font-size:15px;
+}
+.success:nth-child(odd){
+	background-color: gray;
+	color:black;
+	
+}
+#tableHeadings{
+width:100%;
+margin-bottom: 60px;
+text-align:center;
+border: 2px solid black ;
+padding-bottom: 0px;
+font-size:10px;
+}
+
+.active{
+text-align:center;
+font-size:15px;
+
+}
+.active:nth-child(even){
+	background-color: gray;
+	color:white;
+	
+}
+
+#tableHeadings2{
+
+width:100%;
+margin-bottom: 0px;
+text-align:center;
+border: 3px solid black;
+padding-bottom: 10px;
+font-size:10px;
+
+
+}
+
+#tableHeadingsbg2{
+background-color:white;
+padding-bottom: 100px;
+margin-bottom: 150px;
+
+}
+
+.centerAlign{
+	text-align: center;
+}
+.boldCol{
+	font-weight: 700!important;
+}
+.unboldCol{
+	font-weight: 10!important;
+}

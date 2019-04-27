@@ -1,0 +1,45 @@
+main{
+  text-align:justify-all;
+
+}
+#tab{
+text-align:center;
+
+}
+address,#tb1{
+width:100%;
+border-bottom-style: dotted;
+border-spacing: 0 10px;
+}
+#thankyou{
+padding-left: 10%;
+}
+#a{
+border-bottom-style: dotted;
+border-top-style: dotted;
+}
+#tb2{
+width:100%;
+border-spacing: 0 10px;
+}
+@media print {
+    #buttons{
+        display :  none;
+    }
+}
+#table1{
+width:59%;
+}
+#table2{
+width:29%;
+}
+#producttable{
+width:25%;
+}
+//#star{
+border-bottom-style:&#9728;
+}
+.receipt{
+margin: 0 auto;
+}
+.pagination-centered{text-align:center;}
